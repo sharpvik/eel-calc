@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Eel-Calculator
+Exec=/home/sharpvik/Projects/eel-calc/eel-calc
+StartupNotify=true
+Terminal=false
+Type=Application
+Icon=/home/sharpvik/Projects/eel-calc/img/icon.png

@@ -57,6 +57,10 @@ The *make* script doesn't include the last line that actually runs the
 executable `./eel-calc` as its purpose is only to **make** that file. Use that
 line to run it yourself whenever you are ready.
 
+For the freaks like me who use Linux with GNOME and want to add this app to the
+GNOME launcher, I've written the 'eel-calc.desktop' file that has to be copied
+into the `/usr/share/applications` folder to do that. You'll thank me later.
+
 ## Contact
 
 For any personal or business enquiries:
