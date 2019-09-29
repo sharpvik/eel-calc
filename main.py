@@ -6,6 +6,7 @@ sign_replacement_map = {
     '×': '*',
     '÷': '/',
     '^': '**',
+    '∙': '.',
 }
 
 def exp_fix(exp):
